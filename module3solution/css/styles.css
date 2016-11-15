@@ -8,6 +8,9 @@
   margin-top:0;
 }
 
+.navbar-nav > li > a{
+  text-align:center;
+}
 h1{
   color: green;
   text-align:center;
