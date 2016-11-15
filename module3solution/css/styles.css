@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+.navbar-brand h2{
+  margin-top:0;
+}
+
+h1{
+  color: green;
+  text-align:center;
+}
+
+.item{
+  position:relative;
+  background:gray;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.itemtitle{
+  text-align: center;
+}
