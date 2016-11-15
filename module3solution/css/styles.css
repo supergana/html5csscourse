@@ -19,8 +19,8 @@ h2{
 .item{
   position:relative;
   background:gray;
-  margin-left:10px;
-  margin-right:10px;
+  margin:0 10px;
+  padding:0px 10px 10px 10px;
 }
 
 .itemtitle{
